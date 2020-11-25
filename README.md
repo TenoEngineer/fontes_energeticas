@@ -1,4 +1,4 @@
-# fontes_energeticas
+# Fontes Energéticas
 Uma análise dos dados disponibilizados pelo governo em relação as fontes energéticas do país.
 Fontes Energéticas
 URL: http://dadosabertos.ibama.gov.br/dados/RAPP/fontesEnergeticas/relatorio.csv
