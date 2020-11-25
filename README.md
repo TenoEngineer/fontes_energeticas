@@ -8,3 +8,5 @@ Relação das pessoas jurídicas inscritas no Cadastro Técnico Federal de Ativi
 O Relatório apresenta a relação de pessoas inscritas no CTF por Município/UF, Atividade desenvolvida (categoria e detalhe), situação cadastral, tipo de fonte energética e a quantidade consumida, energia consumida e as emissões de CO2.
 
 Para fins de publicação dos dados, foram consideradas as pessoas jurídicas cuja situação cadastral seja: Ativa; Suspensa para averiguações; Suspensa para Averiguações - dados cadastrais inconsistentes e ou recadastramento; Encerramento de atividades e Cadastramento indevido. Para maiores informações, acesse a página do CTF/APP no site do IBAMA.
+# Projeto ainda em desenvolvimento
+Este é meu primeiro projeto desenvolvido para análise de dados. No decorrer do projeto comento meus erros, tipos de problemas que obtive e como tentei resolve-los.
